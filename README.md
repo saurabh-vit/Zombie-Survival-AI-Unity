@@ -1,4 +1,9 @@
 # 🧟 Zombie Survival AI Game (Unity)
+## 📸 Gameplay Preview
+
+![Gameplay](Images/gameplay.png)
+![Zombie AI](Images/zombie_ai.png)
+![Throw Mechanic](Images/throw_action.png)
 
 An AI-driven zombie survival prototype built in Unity, featuring **gesture-based player interaction** and **sound-reactive zombie behavior**. The project combines **computer vision (MediaPipe)** with **game AI (FSM + NavMesh)** to create an interactive stealth-survival experience.
 
